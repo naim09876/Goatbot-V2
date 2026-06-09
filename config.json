@@ -132,11 +132,6 @@
     "typ": false,
     "presence": false
   },
-  "typingIndicator": {
-    "enable": true,
-    "duration": 2000,
-    "notes": "Shows typing indicator before sending messages. duration is in milliseconds (1000 = 1 second). Set enable to false to disable."
-  },
   "optionsFca": {
     "online": true,
     "selfListen": true,
